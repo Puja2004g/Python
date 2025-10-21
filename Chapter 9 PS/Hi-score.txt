@@ -1,0 +1,3 @@
+Your marks: 2
+Computer marks: 1
+Result: You win
