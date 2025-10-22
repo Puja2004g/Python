@@ -12,9 +12,8 @@ class vector:
         return result
     
     def __str__(self):
-        return f"{self.i}, {self.j}, {self.k}"
+        return f"{self.i}i + {self.j}j + {self.k}k"
     
-
 v1 = vector(1,2,3)
 v2 = vector(4,5,6)
 
